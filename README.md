@@ -23,7 +23,7 @@ GPT4ALL is a free tool that you can download, which is optimized to run LLMs on 
 
 If you get lost, you can refer to this [documentation](https://docs.gpt4all.io/gpt4all_chat.html).
 
-## Example Chat
+### Example Chat
 
 **Prompt:**
 
