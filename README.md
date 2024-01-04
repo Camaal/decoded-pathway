@@ -56,7 +56,8 @@ I am a dishwasher. What path should I follow to become an operations research an
 
 **Response:** 
 
-1. To become an Operations Research Analyst from the position of a Dishwasher, you would need to follow this career progression: 1. Gain experience and education in mathematics or related fields such as Computer Science, Statistics, or Engineering. This can be done through community college courses while working as a dishwasher.
+To become an Operations Research Analyst from the position of a Dishwasher, you would need to follow this career progression: 
+1. Gain experience and education in mathematics or related fields such as Computer Science, Statistics, or Engineering. This can be done through community college courses while working as a dishwasher.
 2. Pursue an Associate's degree in Mathematics, Operations Research, Industrial Engineering, or a related field from a community college or online institution.
 3. Obtain relevant work experience by seeking internships or entry-level positions in data analysis, logistics, or operations research departments within various industries.
 4. Pursue further education and obtain a Bachelor's degree in Operations Research, Industrial Engineering, Mathematics, Statistics, or a related field from a university.
