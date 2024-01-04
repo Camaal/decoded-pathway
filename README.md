@@ -58,7 +58,7 @@ Are those schools aligned with the occupation education requirements?
 Yes, these schools are known for granting credentials that align well with the educational requirements related to this occupation. These institutions offer programs in mathematics, engineering, and data analysis, which can be beneficial for pursuing a career as an Operations Research Analyst.
 
 ## Data Files
-- O*NET Resource Center
+- **O*NET Resource Center**
   - [Occupation Data](https://www.onetcenter.org/dl_files/database/db_28_1_text/Occupation%20Data.txt)
   - [Task Statements](https://www.onetcenter.org/dl_files/database/db_28_1_text/Task%20Statements.txt)
   - [Technology Skills](https://www.onetcenter.org/dl_files/database/db_28_1_text/Technology%20Skills.txt)
@@ -74,10 +74,10 @@ Yes, these schools are known for granting credentials that align well with the e
   - [Job Zones](https://www.onetcenter.org/dl_files/database/db_28_1_text/Job%20Zones.txt)
   - [Education, Training, and Experience](https://www.onetcenter.org/dl_files/database/db_28_1_text/Education%2C%20Training%2C%20and%20Experience.txt)
   - [Education, Training, and Experience Categories](https://www.onetcenter.org/dl_files/database/db_28_1_text/Education%2C%20Training%2C%20and%20Experience%20Categories.txt)
-- National Center for Education Statistics
+- **National Center for Education Statistics**
   - [Completions 2010 (Final) - 2022 (Provisional)](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?year=2022&surveyNumber=-1&sid=2359a156-d43c-4fba-a779-70fd437871de&rtid=7)
   - [2020 CIP/SOC Crosswalk](https://nces.ed.gov/ipeds/cipcode/Files/CIP2020_SOC2018_Crosswalk.xlsx)
   - [2022 Institutional Characteristics](https://nces.ed.gov/ipeds/datacenter/datafiles.aspx?sid=2359a156-d43c-4fba-a779-70fd437871de&rtid=7)
   - [CIP 2-Digit Taxonomy](https://nces.ed.gov/ipeds/cipcode/searchresults.aspx?y=56&sw=1,2,3&ct=1,3&ca=1,2,5,3,4)
-- U.S. Census Bureau
+- **U.S. Census Bureau**
   - [2018 Occupation Code Lists](https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-occupation-code-list-and-crosswalk.xlsx)
