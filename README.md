@@ -40,11 +40,12 @@ GPT4ALL is a free tool that you can download, which is optimized to run LLMs on 
 2. Install the following models: [mistral-7b-openorca.Q4_0.gguf](https://mistral.ai/news/mixtral-of-experts/) and SBert model.
 3. Create a folder to store your local documents.
 4. Move the localDocs/ONET.txt file into your new directory.
-5. In GPT4All, go to Settings > LocalDocs tab, find your directory, give the resource a name, and press "Add." 
-6. Wait for it to index your files. It takes about 10 minutes (depending on your machine).
-7. Once indexing is complete, return to the chat window.
-8. Start a new chat and select the "database" icon from the top-right. This should open a popup with your local document.
-9. Select the resource. Now, all future responses will consider the local document for context.
+5. Optional: Use the localDocs/single folder to use individual occupation files as reference material.
+6. In GPT4All, go to Settings > LocalDocs tab, find your directory, give the resource a name, and press "Add."
+7. Wait for it to index your files. It takes about 10 minutes (depending on your machine). 
+8. Once indexing is complete, return to the chat window. 
+9. Start a new chat and select the "database" icon from the top-right. This should open a popup with your local document. 
+10. Select the resource. Now, all future responses will consider the local document for context.
 
 If you get lost, you can refer to this [documentation](https://docs.gpt4all.io/gpt4all_chat.html).
 
